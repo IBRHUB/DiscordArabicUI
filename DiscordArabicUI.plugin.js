@@ -2,7 +2,7 @@
  * @name Discord Arabic Translator
  * @author IBRA - @IBRHUB
  * @description Translates Discord UI text to Arabic (translation only, no layout changes)
- * @version 0.0.1
+ * @version 0.1.0
  * @authorLink https://github.com/IBRHUB
  * @website https://github.com/IBRHUB/DiscordArabicUI
  * @source https://github.com/IBRHUB/DiscordArabicUI

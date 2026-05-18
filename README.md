@@ -80,3 +80,14 @@ The bookmarklet uses the same DOM + `MutationObserver` logic without BetterDisco
 ## Status
 
 This plugin is still early but it will keep improving over time. If you want to contribute, reach out on Discord: [dis.ibrhub.net](https://dis.ibrhub.net)
+
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=IBRHUB%2FDiscordArabicUI&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=IBRHUB/DiscordArabicUI&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=IBRHUB/DiscordArabicUI&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=IBRHUB/DiscordArabicUI&type=date&legend=top-left" />
+ </picture>
+</a>
